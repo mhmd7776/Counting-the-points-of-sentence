@@ -1,0 +1,21 @@
+@import url('https://v1.fontapi.ir/css/Yekan');
+
+body{
+    font-family: 'Yekan', sans-serif;
+    direction: rtl;
+    text-align: right;
+    padding-top: 50px;
+}
+
+.text-center{
+    text-align: center !important;
+}
+
+.font-size-12{
+    font-size: 12px;
+}
+
+#dots-count{
+    font-size: 20px;
+    font-weight: bold;
+}
